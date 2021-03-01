@@ -11,7 +11,7 @@
 # Tradotto in Italiano da Peppe73
 # Spigot: https://www.spigotmc.org/members/peppe73.693388/
 
-# Do not change this setting
+# Non modificare questa impostazione
 file-version: 14
 
 Messages:
@@ -35,7 +35,7 @@ Messages:
     # Messaggio inviato dopo il login
     after-login:
       title: ""
-      subtitle: "&aHai effettuato il log in con successo!"
+      subtitle: "&aHai effettuato il login con successo!"
       delays:
         start: 0
         duration: 60
