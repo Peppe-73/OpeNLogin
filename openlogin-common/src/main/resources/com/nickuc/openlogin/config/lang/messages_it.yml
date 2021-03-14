@@ -127,7 +127,7 @@ Messages:
     message-register: "&eUsa il comando /register <password> <password>"
 
     # Messaggio inviato per o utilizzando il comando /mudarsenha
-    message-changepassword: "&eUsa il comando /changepassword <current password> <new password>"
+    message-changepassword: "&eUsa il comando /changepassword <password attuale> <nuova password>"
 
     # Messaggio inviato per utilizzare il /unregister command
-    message-unregister: "&eUsa il comando /unregister <current password>"
+    message-unregister: "&eUsa il comando /unregister <password attuale>"
